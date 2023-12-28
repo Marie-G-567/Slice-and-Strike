@@ -12,7 +12,7 @@ BOARD_Y = 300
 BOARD_WIDTH = 200
 KNIFE_SPEED = 12
 BOARD_SPEED = 2
-APPLE_SIZE = 15
+APPLE_SIZE = 13
 APPLES_COUNT = 3
 
 # Colors
@@ -44,7 +44,7 @@ game_won = False
 START, PLAYING, END = range(3) 
 game_state = START
 
-time_limit = 40  # 60 seconds time limit
+time_limit = 40  # 40 seconds time limit
 start_time = None
 
 
