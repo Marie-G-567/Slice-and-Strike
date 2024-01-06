@@ -179,8 +179,11 @@ pygame.quit()
 
 
 
-#CONCERNS:
-#-additional feature: need knife to remain on the board : end game when two knives collide
-#-time it takes for knife to regenerate could be shorter
-#-graphics (of knife) --> arrow?
-#-unit testing
+# CONCERNS:
+# additional feature: need knife to remain on the board : end game when two knives collide
+# time it takes for knife to regenerate could be shorter
+# graphics 
+#
+
+
+
