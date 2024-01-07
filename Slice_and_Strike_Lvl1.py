@@ -1,4 +1,4 @@
-# CODE FOR LEVEL 1 OF SLICE-AND-STRIKE
+# PROTOTYPE 1
 
 import pygame
 
