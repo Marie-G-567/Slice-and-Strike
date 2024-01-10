@@ -1,4 +1,4 @@
-# Slice-and-Strike
+# Strike-and-Slice
 Pygame<br>
 Level 1<br>
 The player's goal is to strike and slice each apple using knives.<br>
