@@ -1,5 +1,4 @@
 # Strike-and-Slice
-Pygame<br>
 Level 1<br>
 The player's goal is to strike each apple using knives.<br>
 The apples are placed on a board moving horizontally (across the center of the screen).<br>
